@@ -312,4 +312,19 @@ This makes resource allocation, planning, and organization easier.
 * Analyzed the benefits and structure of Work Breakdown Structure (WBS) for task organization and management in projects. 
 * In order to balance resource demand and improve project schedules, I also looked at resource leveling strategies. 
 * Looked into risk monitoring techniques to systematically monitor and manage project risks all the way through the project's life. 
-* I also looked into ways to optimize project schedules in order to reduce time and eƯectively accomplish project goals. 
+* I also looked into ways to optimize project schedules in order to reduce time and eƯectively accomplish project goals.
+
+### Collaborative Learning: 
+* Regarding our project "Virtual Wedding Planning", I along with my teammates carried out a feasibility study to evaluate the project's practicality while taking market demand and technology viability into account. 
+* Working with team members, I created a thorough solution proposal that outlined the goals, features, target audience, and scope of the project. 
+* We worked together to define project milestones, tasks, and schedules in order to assure effective execution of the project.
+* Accurately estimated project expenses and resource requirements while collaborating with team members to produce comprehensive budgeting papers. 
+* Led brainstorming sessions to provide creative answers and ideas for resolving project difficulties and fulfilling customer demands.
+* Developed risk mitigation methods to reduce the impact of any risks and uncertainties related to the project in collaboration with others. 
+* Participated in frequent team meetings and conversations to exchange updates on progress, resolve problems, and reach decisions as a group. 
+* Incorporated team member input into the creation of project deliverables, such as wireframes, prototypes, and design mock-ups. 
+* Performed peer reviews to verify quality and completeness of project documentation, including requirement specifications. 
+* Collaboratively set priorities for project tasks and wisely distributed resources to fulfill milestones and deadlines. 
+* Helped teammates overcome diƯiculties and roadblocks by providing support, direction, and knowledge as required. 
+* Took an active role in knowledge-sharing meetings where ideas, best practices, and projectrelated lessons were shared.
+
