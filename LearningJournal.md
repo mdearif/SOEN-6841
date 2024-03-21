@@ -328,3 +328,27 @@ This makes resource allocation, planning, and organization easier.
 * Helped teammates overcome diƯiculties and roadblocks by providing support, direction, and knowledge as required. 
 * Took an active role in knowledge-sharing meetings where ideas, best practices, and projectrelated lessons were shared.
 
+### Further Research/Readings: 
+* I examined some case studies and identified eƯicient processes and instruments for guaranteeing product quality by doing in-depth study on best industry practices and standards for quality assurance. 
+* I also looked into diƯerent methods and instruments for project tracking in order to keep tabs on developments, spot deviations, and guarantee project delivery on schedule. 
+* Investigated project metrics and key performance indicators to evaluate project performance and pinpoint areas in need of development. 
+* Examined how a Project Management OƯice (PMO) may help a company standardize its project management procedures and governance. 
+* Moreover, I examined case studies and actual situations to comprehend how schedule disruptions aƯect the overall eƯectiveness of the project and investigate mitigating techniques. 
+* Investigated the reasons behind and eƯects of project cost variations, looking at costcontrol strategies and budgeting approaches to eƯiciently manage project finances.
+* In my research, I also analyzed methods and instruments for resource use in order to maximize resource distribution and improve project eƯectiveness.
+* Reviewed case studies and investigated techniques and instruments for risk monitoring to recognize, evaluate, and reduce project risks over the course of the project. 
+* Investigated Earned Value Management concepts and techniques to evaluate project performance and make precise outcome forecasts. 
+* Investigated methods for schedule optimization to reduce project length and eƯectively accomplish project goals. 
+* In addition, I also investigated the goal of project control and monitoring, as well as how S curves may be used to show project progress and spot trends. 
+* Examined how Work Breakdown Structure (WBS) organizes work for projects and helps with project planning and execution. 
+
+### Adjustments to Goals: 
+* I made a significant progress in deepening my knowledge of version control systems and risk management techniques. 
+* I looked into a number of project planning-related aspects and how they apply to various project circumstances. 
+* Now, the focus is to utilize the recently obtained knowledge to improve the project's administration and implementation of our project "Virtual Wedding Planning." 
+* To support the "Virtual Wedding Planning" feasibility study, solution proposal, project plan, risk assessment, and budget, the goal is to do in-depth research. 
+* I also plan to take a closer look at project closure processes to improve comprehension and streamline tasks for a smooth project finish. 
+* Also, I want to make sure the virtual wedding planning project is resilient by refining the results of the feasibility study. 
+* Using in-depth knowledge of the dynamics of virtual wedding planning, we as a team plan to strengthen the solution proposal. 
+* Moreover, we as a team have plans to add comprehensive risk assessments and mitigation plans to the project plan to make it better. 
+* In order to execute project closing tasks eƯectively, I plan to concentrate on understanding their subtleties.
