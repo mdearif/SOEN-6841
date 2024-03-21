@@ -272,3 +272,68 @@ In conclusion, I have effectively met my objectives about risk management techni
 *	The complexities of project monitoring, particularly in the context of agile models, really pique my interest. As such, I want to acquire a thorough understanding of this process in relation to our project. 
 
 
+***
+
+**Week 5,6,7**: *Feb 18 – Mar 9*
+**Date**: *Mar 6* 
+
+### Key Concepts Learned: 
+* Quality Assurance - Quality assurance, or QA, is the methodical process of verifying 
+products and services meet specified requirements. It comprises developing test plans, 
+conducting testing, addressing issues, and defining quality standards in order to prevent 
+errors. By focusing on process improvement and error prevention, quality assurance (QA) 
+aims to consistently provide high-quality products and increase customer satisfaction. 
+* Project Management OƯice(PMO) - An organization's project management standards, 
+methods, and governance are established and maintained by a Project Management OƯice 
+(PMO), a centralized department that guarantees alignment with strategic objectives and 
+promotes project success. 
+* Project Monitoring – Tracking performance, goals, and budgetary compliance are all part of 
+project monitoring. It entails gathering, analyzing, and correcting data in order to guarantee 
+project success and alignment with company objectives. 
+* Project Schedule Deviation – DiƯerences between the projected and actual project 
+timelines are referred to as project schedule deviations. It entails assessing job completion 
+accelerations or delays and putting corrective procedures in place to realign the project 
+schedule. 
+* Project Cost Deviation – Discrepancies between anticipated and actual project expenses 
+are referred to as project cost deviations. In order to control expenses and maintain 
+financial stability, it entails assessing budget overruns or savings and putting remedial 
+measures into place. 
+* Performance Indicators – Performance indicators are quantifiable measurements that help 
+track development and pinpoint opportunities for improvement by assessing the eƯicacy 
+and eƯiciency of projects or processes.
+* Project Metrics –Project metrics are quantitative assessments that support project 
+management and decision-making by evaluating several project performance factors like 
+progress, quality, cost, and schedule adherence. 
+* Resource Utilization – Resource utilization pertains to the eƯective distribution and 
+administration of accessible resources, including labor, supplies, and machinery, with the 
+aim of optimizing output and reducing wastage throughout project implementation. 
+* Project Status Reports – In order to support stakeholder decision-making, project status 
+reports provide updates on the state of the project, including key milestones, work 
+performed, budget status, and deviations from the plan. 
+* Earned Value Management (EVM) – A project management method called Earned Value 
+Management (EVM) compares planned, earned, and actual values to track project success. 
+This helps with forecasting and performance evaluation. 
+* Purpose of Monitoring and control – Some of the purpose of project monitoring and control 
+includes tracking progress, identifying deviations, and taking corrective actions to ensure 
+project objectives are met eƯectively and eƯiciently.
+* S Curve – An S curve graphically displays cumulative project performance over time, 
+comparing planned progress with actual progress and aiding in tracking project 
+performance. 
+* Earned Value Analysis (EVA) - Earned Value Analysis (EVA) compares the planned value of 
+work with actual progress and costs incurred, aiding project managers in assessing 
+performance and making informed decisions. 
+* Objectives of Earned Value Analysis (EVA) - The objectives of Earned Value Analysis (EVA) 
+are to assess project performance, identify variances, forecast outcomes, and enable 
+informed decision-making for project managers. 
+* Work Breakdown Structure (WBS) - A work breakdown structure, or WBS, is a hierarchical 
+method of breaking down project activities into smaller, easier-to-manage components. 
+This makes resource allocation, planning, and organization easier. 
+* Resource Leveling - In order to maximize project eƯiciency, resource leveling is a project 
+management approach that modifies job schedules to balance resource demand, 
+preventing overallocation or underutilization. 
+* Risk Monitoring - Risk monitoring involves systematically tracking identified risks, assessing 
+their status, and implementing response plans to mitigate or address potential negative 
+impacts on the project. 
+* Schedule Optimization – Schedule optimization involves adjusting task sequences and 
+resource allocations to minimize project duration and meet project objectives eƯiciently 
+while maximizing resource utilization. 
