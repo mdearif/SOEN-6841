@@ -277,6 +277,9 @@ In conclusion, I have effectively met my objectives about risk management techni
 **Week 5,6,7**: *Feb 18 – Mar 9*
 **Date**: *Mar 6* 
 
+**Week 5,6,7**: *Feb 18 – Mar 9*  
+**Date**: *Mar 6*
+
 ### Key Concepts Learned: 
 * Quality Assurance - Quality assurance, or QA, is the methodical process of verifying products and services meet specified requirements. It comprises developing test plans, conducting testing, addressing issues, and defining quality standards in order to prevent errors. By focusing on process improvement and error prevention, quality assurance (QA) aims to consistently provide high-quality products and increase customer satisfaction. 
 * Project Management OƯice(PMO) - An organization's project management standards, methods, and governance are established and maintained by a Project Management OƯice (PMO), a centralized department that guarantees alignment with strategic objectives and promotes project success. 
