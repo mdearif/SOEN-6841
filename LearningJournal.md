@@ -279,12 +279,12 @@ In conclusion, I have effectively met my objectives about risk management techni
 
 ### Key Concepts Learned: 
 * Quality Assurance - Quality assurance, or QA, is the methodical process of verifying products and services meet specified requirements. It comprises developing test plans, conducting testing, addressing issues, and defining quality standards in order to prevent errors. By focusing on process improvement and error prevention, quality assurance (QA) aims to consistently provide high-quality products and increase customer satisfaction. 
-* Project Management OƯice(PMO) - An organization's project management standards, methods, and governance are established and maintained by a Project Management OƯice (PMO), a centralized department that guarantees alignment with strategic objectives and promotes project success. 
+* Project Management OƯice(PMO) - An organization's project management standards, methods, and governance are established and maintained by a Project Management Office (PMO), a centralized department that guarantees alignment with strategic objectives and promotes project success. 
 * Project Monitoring – Tracking performance, goals, and budgetary compliance are all part of project monitoring. It entails gathering, analyzing, and correcting data in order to guarantee project success and alignment with company objectives. 
 * Project Schedule Deviation – Differences between the projected and actual project timelines are referred to as project schedule deviations. It entails assessing job completion accelerations or delays and putting corrective procedures in place to realign the project schedule. 
 * Project Cost Deviation – Discrepancies between anticipated and actual project expenses are referred to as project cost deviations. In order to control expenses and maintain financial stability, it entails assessing budget overruns or savings and putting remedial measures into place. 
-* Performance Indicators – Performance indicators are quantifiable measurements that help track development and pinpoint opportunities for improvement by assessing the eƯicacy and eƯiciency of projects or processes.
-* Project Metrics –Project metrics are quantitative assessments that support project management and decision-making by evaluating several project performance factors like progress, quality, cost, and schedule adherence. 
+* Performance Indicators – Performance indicators are quantifiable measurements that help track development and pinpoint opportunities for improvement by assessing the efficacy and efficiency of projects or processes.
+* Project Metrics – Project metrics are quantitative assessments that support project management and decision-making by evaluating several project performance factors like progress, quality, cost, and schedule adherence. 
 * Resource Utilization – Resource utilization pertains to the effective distribution and administration of accessible resources, including labor, supplies, and machinery, with the aim of optimizing output and reducing wastage throughout project implementation. 
 * Project Status Reports – In order to support stakeholder decision-making, project status reports provide updates on the state of the project, including key milestones, work performed, budget status, and deviations from the plan. 
 * Earned Value Management (EVM) – A project management method called Earned Value Management (EVM) compares planned, earned, and actual values to track project success. 
@@ -304,7 +304,7 @@ This makes resource allocation, planning, and organization easier.
 * I explored various strategies for maintaining and improving quality standards in project deliverables through systematic processes and evaluations. 
 * I investigated how a Project Management Office (PMO) establishes and upholds project management governance and standards. 
 * In order to guarantee project success, I also researched techniques for monitoring and assessing project progress, deviations, and performance indicators. 
-* Examined ways to mitigate project schedule and cost deviations by analyzing them to determine how they aƯected project outcomes.
+* Examined ways to mitigate project schedule and cost deviations by analyzing them to determine how they affected project outcomes.
 * In order to evaluate the success of a project and pinpoint areas in need of development, I also looked at the application of performance indicators and project metrics. 
 * Looked at resource use strategies to maximize resource distribution and improve project effectiveness.
 * Examined how crucial project status reports are for informing stakeholders about project challenges, risks, and progress. 
@@ -333,12 +333,12 @@ This makes resource allocation, planning, and organization easier.
 * I also looked into different methods and instruments for project tracking in order to keep tabs on developments, spot deviations, and guarantee project delivery on schedule. 
 * Investigated project metrics and key performance indicators to evaluate project performance and pinpoint areas in need of development. 
 * Examined how a Project Management Office (PMO) may help a company standardize its project management procedures and governance. 
-* Moreover, I examined case studies and actual situations to comprehend how schedule disruptions aƯect the overall eƯectiveness of the project and investigate mitigating techniques. 
+* Moreover, I examined case studies and actual situations to comprehend how schedule disruptions aƯect the overall effectiveness of the project and investigate mitigating techniques. 
 * Investigated the reasons behind and effects of project cost variations, looking at cost control strategies and budgeting approaches to efficiently manage project finances.
 * In my research, I also analyzed methods and instruments for resource use in order to maximize resource distribution and improve project eƯectiveness.
 * Reviewed case studies and investigated techniques and instruments for risk monitoring to recognize, evaluate, and reduce project risks over the course of the project. 
 * Investigated Earned Value Management concepts and techniques to evaluate project performance and make precise outcome forecasts. 
-* Investigated methods for schedule optimization to reduce project length and eƯectively accomplish project goals. 
+* Investigated methods for schedule optimization to reduce project length and effectively accomplish project goals. 
 * In addition, I also investigated the goal of project control and monitoring, as well as how S curves may be used to show project progress and spot trends. 
 * Examined how Work Breakdown Structure (WBS) organizes work for projects and helps with project planning and execution. 
 
@@ -351,7 +351,7 @@ This makes resource allocation, planning, and organization easier.
 * Also, I want to make sure the virtual wedding planning project is resilient by refining the results of the feasibility study. 
 * Using in-depth knowledge of the dynamics of virtual wedding planning, we as a team plan to strengthen the solution proposal. 
 * Moreover, we as a team have plans to add comprehensive risk assessments and mitigation plans to the project plan to make it better. 
-* In order to execute project closing tasks eƯectively, I plan to concentrate on understanding their subtleties.
+* In order to execute project closing tasks effectively, I plan to concentrate on understanding their subtleties.
 
 ***
 
