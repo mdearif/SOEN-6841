@@ -274,9 +274,6 @@ In conclusion, I have effectively met my objectives about risk management techni
 
 ***
 
-**Week 5,6,7**: *Feb 18 – Mar 9*
-**Date**: *Mar 6* 
-
 **Week 5,6,7**: *Feb 18 – Mar 9*  
 **Date**: *Mar 6*
 
@@ -358,8 +355,8 @@ This makes resource allocation, planning, and organization easier.
 
 ***
 
-**Final Week**: **
-**Date**: *April 10* 
+**Final Week**
+**Date**: *April 10*
 
 ### Overall Course Impact: 
 * Comprehensive Project Management - I've gained a thorough understanding of project management, including progress monitoring, resource management, and effective project 
