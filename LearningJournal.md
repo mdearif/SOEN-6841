@@ -312,7 +312,7 @@ This makes resource allocation, planning, and organization easier.
 * Analyzed the benefits and structure of Work Breakdown Structure (WBS) for task organization and management in projects. 
 * In order to balance resource demand and improve project schedules, I also looked at resource leveling strategies. 
 * Looked into risk monitoring techniques to systematically monitor and manage project risks all the way through the project's life. 
-* I also looked into ways to optimize project schedules in order to reduce time and eƯectively accomplish project goals.
+* I also looked into ways to optimize project schedules in order to reduce time and effectively accomplish project goals.
 
 ### Collaborative Learning: 
 * Regarding our project "Virtual Wedding Planning", I along with my teammates carried out a feasibility study to evaluate the project's practicality while taking market demand and technology viability into account. 
@@ -326,7 +326,7 @@ This makes resource allocation, planning, and organization easier.
 * Performed peer reviews to verify quality and completeness of project documentation, including requirement specifications. 
 * Collaboratively set priorities for project tasks and wisely distributed resources to fulfill milestones and deadlines. 
 * Helped teammates overcome diƯiculties and roadblocks by providing support, direction, and knowledge as required. 
-* Took an active role in knowledge-sharing meetings where ideas, best practices, and projectrelated lessons were shared.
+* Took an active role in knowledge-sharing meetings where ideas, best practices, and project related lessons were shared.
 
 ### Further Research/Readings: 
 * I examined some case studies and identified eƯicient processes and instruments for guaranteeing product quality by doing in-depth study on best industry practices and standards for quality assurance. 
@@ -334,7 +334,7 @@ This makes resource allocation, planning, and organization easier.
 * Investigated project metrics and key performance indicators to evaluate project performance and pinpoint areas in need of development. 
 * Examined how a Project Management OƯice (PMO) may help a company standardize its project management procedures and governance. 
 * Moreover, I examined case studies and actual situations to comprehend how schedule disruptions aƯect the overall eƯectiveness of the project and investigate mitigating techniques. 
-* Investigated the reasons behind and eƯects of project cost variations, looking at costcontrol strategies and budgeting approaches to eƯiciently manage project finances.
+* Investigated the reasons behind and eƯects of project cost variations, looking at cost control strategies and budgeting approaches to eƯiciently manage project finances.
 * In my research, I also analyzed methods and instruments for resource use in order to maximize resource distribution and improve project eƯectiveness.
 * Reviewed case studies and investigated techniques and instruments for risk monitoring to recognize, evaluate, and reduce project risks over the course of the project. 
 * Investigated Earned Value Management concepts and techniques to evaluate project performance and make precise outcome forecasts. 
@@ -352,3 +352,32 @@ This makes resource allocation, planning, and organization easier.
 * Using in-depth knowledge of the dynamics of virtual wedding planning, we as a team plan to strengthen the solution proposal. 
 * Moreover, we as a team have plans to add comprehensive risk assessments and mitigation plans to the project plan to make it better. 
 * In order to execute project closing tasks eƯectively, I plan to concentrate on understanding their subtleties.
+
+***
+
+**Final Week**
+**Date**: *April 10* 
+
+### Overall Course Impact: 
+* Comprehensive Project Management - I've gained a thorough understanding of project management, including progress monitoring, resource management, and effective project 
+closure. My perspective on project lifecycles, especially in iterative models, has evolved significantly. 
+* Software Life Cycle Processes - I now comprehend the various processes involved in software development, from requirements gathering to maintenance, enabling me to 
+orchestrate seamless project execution from start to finish. 
+* Software Life Cycle in Waterfall Model - Studying the software lifecycle in the waterfall model has provided me with a foundational understanding of sequential development processes and their application in certain project scenarios. 
+* Software Life Cycle in Iterative Model - Conversely, exploring the software lifecycle in iterative models has highlighted the benefits of iterative development, such as flexibility, adaptability, and continuous improvement. 
+* Adaptability in Development Methodologies - Exploring various software development models, such as Waterfall and Iterative, has broadened my understanding of development 
+methodologies. I can now adapt these methodologies to suit project requirements effectively, ensuring smoother project execution.
+* Proficiency in Design Practices - Delving into software design methods and techniques has equipped me with the tools to architect robust, scalable systems. I appreciate the significance of design quality and the benefits of refactoring for maintaining code integrity. 
+* Expertise in Quality Assurance and Testing - My grasp of QA processes, including test automation and prioritization, ensures the delivery of high-quality software products. Understanding verification, validation, and continuous integration contributes to overall project success. 
+* Strategic Maintenance Approach - Exploring maintenance techniques has underscored the importance of proactive maintenance for software longevity. Recognizing the value of reengineering and forward engineering is crucial for adapting to evolving requirements. 
+* Technical Proficiency - I've deepened my technical expertise in software development and project management, which allows me to tackle complex challenges with confidence. 
+* Value of Continuous Improvement - The course emphasized the importance of continuous improvement in project management and software development practices, enabling me to 
+strive for excellence in all aspects of my work. 
+* Alignment with Organizational Goals - I've learned to align project objectives with organizational goals, ensuring that my work contributes to the overall success of the 
+company. 
+* Software Life Cycle Processes - I now comprehend the various processes involved in software development, from requirements gathering to maintenance, enabling me to 
+orchestrate seamless project execution from start to finish. 
+* Project Closure in Iterative Model - Exploring project closure in iterative models has shown me the importance of iterative feedback loops and continuous improvement, even after project completion, to enhance future iterations. 
+* Resource Release - I've gained insights into the strategic release of resources post-project completion, ensuring eƯicient resource utilization and alignment with organizational goals.
+* Strategic Thinking - This course has instilled in me a strategic mindset for navigating complex software projects, allowing me to make informed decisions and drive meaningful outcomes. 
+
